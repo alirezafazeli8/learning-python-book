@@ -28,4 +28,18 @@
 
 ---
 
+# راه های ارتباطی با من :
+
+- Email : <a href="mailto:alirezafazelitech@outlook.com">alirezafazelitech@outlook.com</a>
+
+- Twitter : @fazeli_tech
+
+- Discord : fazelitech#2607
+
+- YouTube : [@FazeliTech](https://www.youtube.com/@FazeliTech)
+
+---
+
 # [خواندن کتاب ، زمانی که داشتم پایتون یاد میگرفتم 🐍](./Headlines/Main.md)
+
+---
