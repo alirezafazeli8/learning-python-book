@@ -6,6 +6,7 @@
       {
         "id": "b526b3650ef92ea9",
         "type": "tabs",
+        "dimension": 53.899721448467965,
         "children": [
           {
             "id": "2986483b96741b56",
@@ -24,6 +25,7 @@
       {
         "id": "c17065cfa2b707fb",
         "type": "tabs",
+        "dimension": 46.10027855153203,
         "children": [
           {
             "id": "d4bed6ddc6bfc646",
@@ -165,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2986483b96741b56",
+  "active": "2519e2fc0b9a9346",
   "lastOpenFiles": [
     "src/img/meme_copy.jpg",
     "src/img/py_index.png",
